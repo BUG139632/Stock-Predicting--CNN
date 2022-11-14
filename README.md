@@ -1,1 +1,1 @@
-# Stock-Predicting--CNN
+# Stock-Prediction--CNN
